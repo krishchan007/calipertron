@@ -1,0 +1,23 @@
+[Version]
+Signature="$Windows NT$"
+Class=Ports
+ClassGuid={4d36e978-e325-11ce-bfc1-08002be10318}
+Provider=%Manufacturer%
+DriverVer=01/01/2024,1.0.0.0
+
+[Manufacturer]
+%Manufacturer%=DeviceList,NTx86,NTamd64
+
+[DeviceList.NTx86]
+%DeviceName%=Install,USB\VID_1209&PID_0001
+
+[DeviceList.NTamd64]
+%DeviceName%=Install,USB\VID_1209&PID_0001
+
+[Install]
+Include=usbser.inf
+Needs=UsbSer_Install
+
+[Strings]
+Manufacturer="Calipertron"
+DeviceName="USB CDC Minimal"

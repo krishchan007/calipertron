@@ -7,6 +7,7 @@ authors = ["Kevin J. Lynagh <kevin@keminglabs.com>"]
 [dependencies]
 schema = { path = "../schema" }
 calipertron-core = { path = "../calipertron-core" }
+embedded-io = "0.6"
 
 embassy-stm32 =    { git = "https://github.com/embassy-rs/embassy", features = ["defmt", "stm32f103c8", "unstable-pac", "memory-x", "time-driver-any"]  }
 embassy-sync =     { git = "https://github.com/embassy-rs/embassy", features = ["defmt"] }
@@ -14,6 +15,7 @@ embassy-executor = { git = "https://github.com/embassy-rs/embassy", features = [
 embassy-time =     { git = "https://github.com/embassy-rs/embassy", features = ["defmt", "defmt-timestamp-uptime", "tick-hz-32_768"] }
 embassy-usb =      { git = "https://github.com/embassy-rs/embassy", features = ["defmt"] }
 embassy-futures =  { git = "https://github.com/embassy-rs/embassy" }
+
 
 defmt = "0.3"
 defmt-rtt = "0.4"
@@ -41,3 +43,4 @@ lto = true
 opt-level = "s"
 incremental = false
 codegen-units = 1
+

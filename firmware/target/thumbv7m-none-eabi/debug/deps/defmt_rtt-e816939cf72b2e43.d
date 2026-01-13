@@ -1,0 +1,12 @@
+C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\deps\defmt_rtt-e816939cf72b2e43.d: C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\lib.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\channel.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\consts.rs C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\build\defmt-rtt-8a5301ed19258a22\out/consts.rs
+
+C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\deps\libdefmt_rtt-e816939cf72b2e43.rlib: C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\lib.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\channel.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\consts.rs C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\build\defmt-rtt-8a5301ed19258a22\out/consts.rs
+
+C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\deps\libdefmt_rtt-e816939cf72b2e43.rmeta: C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\lib.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\channel.rs C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\consts.rs C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\build\defmt-rtt-8a5301ed19258a22\out/consts.rs
+
+C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\lib.rs:
+C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\channel.rs:
+C:\Users\Krishna\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.1\src\consts.rs:
+C:\Users\Krishna\Downloads\calipertron-master\calipertron-master\firmware\target\thumbv7m-none-eabi\debug\build\defmt-rtt-8a5301ed19258a22\out/consts.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Krishna\\Downloads\\calipertron-master\\calipertron-master\\firmware\\target\\thumbv7m-none-eabi\\debug\\build\\defmt-rtt-8a5301ed19258a22\\out
